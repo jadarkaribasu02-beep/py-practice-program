@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karibasujadar" alt="karibasujadar" /></a> </p>
 
 - 🔭 I’m currently working on **web development and python**
+- **📚 you can open python lab programs,  by clicking above**
 
 - 👨‍💻 All of my projects are available at [https://jadarkaribasu02-beep.github.io/html.k1/](https://jadarkaribasu02-beep.github.io/web/)
 
