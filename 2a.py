@@ -3,8 +3,7 @@ n = int(input('enter the fibonacci sequence of length to be generated:'))
 firstnumber = 0
 secondnumber = 1
 print(' the fibonacci series is :')
-print(firstnumber)
-print(secondnumber)
+
 
 
 for i in range(2 ,n):
