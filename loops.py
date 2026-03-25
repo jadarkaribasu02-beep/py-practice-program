@@ -8,7 +8,7 @@ while i < len(k):
    
     i += 1
 
- #fonding value in tupple
+ #finding value in tupple
      
 k = (1,2,3,4,5,6,7,8,9)    
 x = int(input('enter number u want to find:'))
